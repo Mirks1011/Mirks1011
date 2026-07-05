@@ -30,7 +30,7 @@ I'm interested in working software development and enjoy building desktop and we
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,php,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,php,cpp" />
 </p>
 
 ---

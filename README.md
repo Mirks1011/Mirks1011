@@ -4,7 +4,7 @@ Or simply **Kurt Laride**.
 
 🎓 3rd Year BSIT Student at Quezon City University
 
-I'm interested in working with software development and enjoy building desktop and websites.
+I'm interested in working software development and enjoy building desktop and web applications. And still continues of trying to improve
 
 ## 💻 Experience
 
@@ -12,8 +12,9 @@ I'm interested in working with software development and enjoy building desktop a
 - PHP (Vanilla PHP)
 - MySQL
 - C++
+- SQL (phpMyAdmin)
 
-### PHP Libraries
+### 📚 PHP Libraries
 
 - PHPMailer
 - OpenSpout
@@ -22,7 +23,7 @@ I'm interested in working with software development and enjoy building desktop a
 
 - Modern C++
 - Unity
-- JavaScript (planned for late July / early August 2026)
+- JavaScript *(planned for late July / early August 2026)*
 
 ---
 
@@ -30,6 +31,14 @@ I'm interested in working with software development and enjoy building desktop a
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,php,mysql,cpp" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Mirks1011&theme=github-dark&hide_border=true" />
 </p>
 
 ---

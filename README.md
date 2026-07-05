@@ -2,9 +2,11 @@
 
 Or simply **Kurt Laride**.
 
-🎓 3rd Year BSIT Student at Quezon City University
+🎓 3rd Year BSIT Student at **Quezon City University**
 
-I'm interested in working software development and enjoy building desktop and web applications. And still continues of trying to improve
+I'm interested in software development and enjoy building desktop and web applications. I'm continuously learning and improving my skills while exploring new technologies.
+
+---
 
 ## 💻 Experience
 
@@ -12,37 +14,43 @@ I'm interested in working software development and enjoy building desktop and we
 - PHP (Vanilla PHP)
 - MySQL
 - C++
-- SQL (phpMyAdmin)
 
 ### 📚 PHP Libraries
 
 - PHPMailer
 - OpenSpout
 
+### 🛠️ Familiar With
+
+- TrueNAS
+- Basic Networking
+
+---
+
 ## 🌱 Currently Learning
 
 - Modern C++
 - Unity
-- JavaScript *(planned for late July / early August 2026)*
+- JavaScript *(planned for late July /early August 2026)*
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,php,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,php,mysql,cpp" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Mirks1011&theme=github-dark&hide_border=true" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Mirks1011&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirks1011&theme=github-dark)](https://github.com/Mirks1011)
+[![Kurt's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirks1011&theme=github-dark)](https://github.com/Mirks1011)

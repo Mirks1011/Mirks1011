@@ -30,15 +30,21 @@ I'm interested in software development and enjoy building desktop and web applic
 ## 🌱 Currently Learning
 
 - Modern C++
-- Unity
-- JavaScript *(planned for late July /early August 2026)*
+- Unity Engine
+- JavaScript *(planned for late July / early August 2026)*
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,php,mysql,cpp" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+
 </p>
 
 ---

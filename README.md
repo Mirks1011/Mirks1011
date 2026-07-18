@@ -11,7 +11,7 @@ I'm interested in software development and enjoy building desktop and web applic
 ## 💻 Experience
 
 - HTML
-- PHP (Vanilla PHP)
+- PHP (Composer)
 - phpMyAdmin
 - C++
 

@@ -14,6 +14,7 @@ I'm interested in software development and enjoy building desktop and web applic
 - PHP (Composer)
 - phpMyAdmin
 - C++
+- JavaScript
 
 ### 📚 PHP Libraries
 
@@ -23,15 +24,14 @@ I'm interested in software development and enjoy building desktop and web applic
 ### 🛠️ Familiar With
 
 - TrueNAS
-- Basic Networking
+- Basic Networking and Addressing
 
 ---
 
 ## 🌱 Currently Learning
 
 - Modern C++
-- Unity Engine
-- JavaScript *(planned for late July / early August 2026)*
+- JavaScript
 
 ---
 
